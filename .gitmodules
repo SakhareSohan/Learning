@@ -1,0 +1,27 @@
+[submodule "30days-of-js"]
+	path = 30days-of-js
+	url = https://github.com/SakhareSohan/Learning-30DaysOfJS.git
+[submodule "ydkjs"]
+	path = ydkjs
+	url = https://github.com/SakhareSohan/Learning-YDKJS.git
+[submodule "js-course"]
+	path = js-course
+	url = https://github.com/SakhareSohan/Learning-JS-Course.git
+[submodule "terraform-basics"]
+	path = terraform-basics
+	url = https://github.com/SakhareSohan/Learning-Terraform-Basics.git
+[submodule "terraform-advanced"]
+	path = terraform-advanced
+	url = https://github.com/SakhareSohan/Learning-Terraform-Advanced.git
+[submodule "free-apis"]
+	path = free-apis
+	url = https://github.com/SakhareSohan/Learning-FreeAPIs.git
+[submodule "cloud-scaling-game"]
+	path = cloud-scaling-game
+	url = https://github.com/SakhareSohan/Learning-CloudScalingGame.git
+[submodule "ai-research-papers"]
+	path = ai-research-papers
+	url = https://github.com/SakhareSohan/Learning-AI-ResearchPapers.git
+[submodule "aiml-portfolio"]
+	path = aiml-portfolio
+	url = https://github.com/SakhareSohan/Learning-AIML-Portfolio.git
